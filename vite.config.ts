@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/clever-code-showcase/",
+  // base: "/clever-code-showcase/",
 
   server: {
     host: "::",
