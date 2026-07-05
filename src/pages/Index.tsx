@@ -231,7 +231,7 @@ const Index = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 1 }}
             >
-              Crafting premium digital experiences through elegant code and thoughtful design.
+              testing.
             </motion.p>
             
             <motion.div
